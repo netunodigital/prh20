@@ -1,6 +1,4 @@
-## Projetos Cadastrados
-
-### Exploração, desenvolvimento e produção de petróleo e gás
+## Exploração, desenvolvimento e produção de petróleo e gás
 
 - CAMILO HENRIQUE DA SILVA LIMA; PIERRE MOTHÉ ESTEVES | **Simulações computacionais de ésteres de ácidos graxos como depressores do ponto de fluidez para o transporte de petróleo bruto e de suas frações destiladas** | Graduação, Mestrado, Pós-Doutorado
 
@@ -16,14 +14,14 @@
 - VINICIUS OTTONIO OLIVEIRA GONÇALVES, JOÃO FRANCISCO CAJAIBA DA SILVA, VINICIUS TADEU KARTNALLER MONTALVÃO | **Geração e expulsão de óleo a partir de rochas geradoras por hidrólise. Craqueamento e estabilidade térmica de amostras de petróleo** | Graduação, Mestrado, Doutorado, Pós-Doutorado
 
 
-### Transporte, refino e processamento de gás natural
+## Transporte, refino e processamento de gás natural
 - JOÃO FRANCISCO DA SILVA CAJAIBA, VINICIUS OTTONIO OLIVEIRA GONAÇALVES, VINÍCIUS TADEU KARTNALLER MONTALVÃO | **Avaliação do uso de aditivos que maximizem a conversão de hidratos de gás carbônico em hidratos de CO<sub>2</sub>** | Mestrado, Doutorado, Pós-Doutorado
 
 - VICTOR DE OLIVEIRA RODRIGUES E ARNALDO DA COSTA FARO JÚNIOR | **Estudo  cinético das reações de desidroaromatização de alcanos leves** | Graduação, Mestrado, Doutorado
 - VICTOR DE OLIVEIRA RODRIGUES E ARNALDO DA COSTA FARO JÚNIOR | **Novos catalisadores para HDS seletiva de nafta baseadoss em hidrotalcitas** | Graduação, Mestrado, Doutorado
 
 
-### Biocombustíveis e demais energias renováveis
+## Biocombustíveis e demais energias renováveis
 - ANDRÉA LUZIA FERREIRA DE SOUZA | **Síntese de biodiesel a partir da esterificação de ácidos graxos provenientes do refino de óleos vegetais e do refino de sebo bovino via catálise ácida heterogênea** | Graduação
 
 - DANIELLA RODRIGUES FERNANDES NORONHA | **Valorização de furfural para produção de bioquerosene de aviação pelo emprego de catalisadores do tipo hidrotalcitas** | Graduação, Mestrado
@@ -48,7 +46,7 @@
 - RODRIGO LEANDRO SILVEIRA | **Simulações computacionais de enzimas produtoras de hidrocarbonetos: compreendendo os mecanismos de biossíntese de alca(e)nos reováveis por fotodescarboxilases** | Graduação
 
 
-### Economia de baixo carbono
+## Economia de baixo carbono
 - DENISE M G FREIRE, ELISA D C CAVALCANTI, ÉRIKA C G AGUIEIRAS, JOÃO MONNERAT | **Aproveitamento e aumento do valor agregado de resíduos e coprodutos da indústria de biocombustíveis** | Graduação, Mestrado, Doutorado, Pós-Doutorado
 
 - JUSSARA LOPES DE MIRANDA E LUIZA CRISTINA DE MOURA | **Obtenção de materiais híbridos metal-orgânicos mofs para a captura de CO<sub>2</sub>** |  Graduação, Mestrado
@@ -56,7 +54,7 @@
 - JUSSARA LOPES DE MIRANDA E PRISCILA TAMIASSO MARTINHON |  **Transcrição energética mediada pela educação ambiental** | Graduação, Mestrado
 - LUIZA CRISTINA DE MOURA E JUSSARA LOPES DE MIRANDA | **Captura de CO<sub>2</sub> através da utilização de compostos lamelares modificados** | Graduação, Mestrado
 
-### Nanotecnologia e novos materiais para o setor de petróleo e gás
+## Nanotecnologia e novos materiais para o setor de petróleo e gás
 - CAMILO HENRIQUE DA SILVA LIMA, JOSÉ CELESTINO DE BARROS NETO | **Tiras de testes baseadas em corantes solvatocrômicos para análise de campo de combustíveis adulterados** | Graduação, Mestrado
 
 - DANIELLA LOPEZ VALE | **Desenvolvimento de um equipamento portátil multisensorial associado à inteligência artificial para o controle de qualidade de gasolina e óleo diesel** | Graduação, Mestrado
@@ -68,7 +66,7 @@
 - PIERRE MOTHÉ ESTEVES | **Estudo computacional de machine learning para descoberta de novos materiais nanoporosos para captura de CO<sub>2</sub> e outros gases** | Graduação, Mestrado, Doutorado, Pós-Doutorado
 - SIMONE PEREIRA DA SILVA RIBEIRO | **Desenvolvimento de materiais poliméricos retardantes de chama para aplicação em instalações de produção de petróleo, gás natural e derivada** | Mestrado, Doutorado
 
-### Biotecnologia para o setor de petróleo e gás
+## Biotecnologia para o setor de petróleo e gás
 - DENISE M G FREIRE, ELISA D C CAVALCANTI, ÉRIKA C G AGUIEIRAS, JOÃO MONNERAT | **Aproveitamento e aumento do valor agregado de resíduos e coprodutos da indústria de biocombustíveis** | Graduação, Mestrado, Doutorado, Pós-Doutorado
 
 - DENISE MARIA GUIMARÃES FREIRE; JOAO MONNERAT ARAUJO RIBEIRO DE ALMEIDA | **Uso de biossurfactantes como agentes potencializadores na recuperação microbiana aprimorada de petróleo (MEOR)** | Graduação, Mestrado, Doutorado

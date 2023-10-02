@@ -1,5 +1,3 @@
-## Sobre PRH 20.1
-
 **O Programa de Formação de Recursos Humanos para o Setor de Petróleo, Gás Natural e Biocombustíveis (PRH-ANP)** é a ferramenta de gestão criada pela ANP, implantada e implementada desde 1999, como forma de executar a política pública prevista na Lei do Petróleo (nº 9.478/1997) que trata do estímulo a pesquisa e adoção de novas tecnologias na indústria do petróleo, gás natural e biocombustíveis.
 
 O **PRH-ANP** teve sua primeira fase entre os anos de 1999 e 2018, tento obtido resultados relevantes no espectro de seus objetivos, quais sejam: a formação de mão de obra especializada para inserção no mercado de trabalho e o desenvolvimento de novas pesquisas para o setor regulado pela ANP.

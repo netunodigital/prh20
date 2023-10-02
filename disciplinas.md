@@ -1,4 +1,6 @@
-## Disciplinas Obrigatórias
+ ## Graduação
+
+### Disciplinas Obrigatórias
 
  - IQW-599: Biomassa e Biocombustíveis (2 créditos | 30h teórica) |
    [Ementa](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/29235503-92A4-F79B-06AF-68B080672632.html)  
@@ -11,7 +13,7 @@
 - IQW-X03: Seminários de Petróleo e Gás (1 créditos | 15h teórica) | [Ementa](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/D9E7C7D1-92A4-F79B-3F63-58B82B245516.html)  
 - IQW-624: Técnicas de Caracterização de Petróleo e Derivados (4 créditos | 45h teórica | 30h prática) | Ementa
 
-## Disciplinas Eletivas
+### Disciplinas Eletivas
 
 - IQA-363: Análise Estatística de Dados (3 créditos | 30h teórica | 15h prática) | [Ementa](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/69A63875-92A4-F79C-4249-CCD13A7DCE55.html)
  
@@ -32,10 +34,7 @@
 - IQO-580: Química de Fluídos de Perfuração para Poços de Petróleo (2 créditos | 30h teórica) | [Ementa](https://siga.ufrj.br/sira/repositorio-curriculo/disciplinas/2E034BA7-92A4-F799-6284-967BF90FF151.html) 
 
 
-
-
-
-## Ementas Disciplinas Pós-Graduação PRH 20.1
+## Pós-Graduação
 
 ### Disciplinas Obrigatórias
 

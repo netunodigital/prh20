@@ -17,9 +17,6 @@
                 </div>
             </div>
             <div id="menu">
-                <nav>
-
-                </nav>
             </div>
         </div>
     </section>
@@ -60,10 +57,8 @@
         </div>
     </section>
     <section id="rodape">
-        <p>
-            PRH 20.1 | 2023 © Todos os direitos reservados
-        </p>
     </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
     <script>
         const icons = document.querySelectorAll('.icon');
         const menu = document.getElementById('menu');
@@ -74,5 +69,9 @@
         });
         });
     </script>
+    <script> 
+        $("#menu").load("menu.html");
+        $("#rodape").load("rodape.html");
+    </script> 
   </body>
 </html>

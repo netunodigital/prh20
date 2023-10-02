@@ -11,7 +11,8 @@ body {
 }
 
 .container {
-    width: 900px;
+    width: 100%;
+    max-width: 900px;
     margin: auto;
     padding: 50px 0;
 }
@@ -75,7 +76,9 @@ body {
 
 #header #logo {
     width: 250px;
-    margin: 30px 50px;
+    position: absolute;
+    top: 30px;
+    left: 50px;
 }
 
 #linhas-pesquisa {
@@ -186,14 +189,45 @@ body {
 }
 
 #rodape {
-    background: radial-gradient(52.64% 744.83% at 50% 100%, #007837 0%, rgba(0, 255, 110, 0.00) 100%), rgba(0, 255, 110, 0.70);
-    height: 60px;
+    background:#304A7B;
     width: 100%;
     display: flex;
     justify-content: center;
+    padding: 40px 0 0;
+    flex-wrap: wrap;
+}
+
+#rodape .container {
+    padding: 0;
+}
+
+#rodape h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 30px;
 }
 
 #rodape p {
+    text-align: center;
+    width: 100%;
+}
+
+#rodape iframe {
+    border-radius: 20px;
+}
+
+#rodape #contato {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#rodape #contato div {
     text-align: center;
 }
 
@@ -271,7 +305,133 @@ body {
     right: -500px;
     z-index: 9;
     transition: all 0.5s;
+    border-left: 2px solid #007837;
 }
 #menu.open {
     right: 0;
+}
+
+#menu nav {
+    margin: 50px 50px;
+}
+
+
+#menu li {
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+#menu li a {
+    color: #000;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.3s;
+}
+
+#menu li a:hover {
+    font-weight: 700;
+    color: #304A7B;
+}
+
+.selected {
+    font-weight: 700;
+    color: #304A7B;
+}
+
+#menu {
+
+}
+
+
+
+
+
+/* PAGINAS */
+
+#page {
+    background: linear-gradient(180deg, #FFF 0%, #E9F0FF 15.67%);
+    padding-bottom: 50px;
+}
+
+#page #header {
+    width: 100%;
+}
+
+#page #header {
+    height: 150px;
+}
+
+#page #header h1 {
+    text-align: center;
+    color: #304A7B;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+
+#page #page-content {
+    border-radius: 20px;
+    border: 2px solid #8FB6FF;
+    background: #FFF;
+    box-shadow: 10px 10px 0px 0px #8FB6FF;
+    margin: 10px auto;
+    width: 900px;
+    padding: 30px 50px;
+}
+
+#page #page-content * {
+    color: black !important;
+}
+
+#page #page-content h2 {
+    color:#007837 !important;
+    font-size: 16px;
+    margin: 40px 0 30px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+#page #page-content h3 {
+    color:#304A7B !important;
+    font-size: 15px;
+    margin: 40px 0 30px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#page #page-content p {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+#page #page-content img {
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+#page #page-content li::marker {
+    color: #007837;
+}
+
+#page #page-content li {
+    padding: 5px 0;
+}
+
+#page #page-content a {
+    text-decoration: none;
+    color: #304A7B !important;
+    font-weight: 700;
+}
+
+
+#page #page-content a:hover {
+    text-decoration: underline;
+}
+
+#menu {
+    color:#304A7B
 }

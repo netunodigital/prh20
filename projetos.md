@@ -25,9 +25,9 @@
 - ANDRÉA LUZIA FERREIRA DE SOUZA | **Síntese de biodiesel a partir da esterificação de ácidos graxos provenientes do refino de óleos vegetais e do refino de sebo bovino via catálise ácida heterogênea** | Graduação
 
 - DANIELLA RODRIGUES FERNANDES NORONHA | **Valorização de furfural para produção de bioquerosene de aviação pelo emprego de catalisadores do tipo hidrotalcitas** | Graduação, Mestrado
-- DÉBORA FRANÇA DE ANDRADE, LUIZ ANTONIOD’AVILA E CRISTIANE GIMENES DE SOUZA | **Determinação de água em etanol combustível usando um sensor de palygorskite** | Graduação
-- DÉBORA FRANÇA DEANDRADE, LUIZ ANTONIOD’AVILA E CRISTIANE GIMENES DE SOUZA | **Desenvolvimento de método para determinação de biodiesel em óleo diesel usando um sensor de palygorskite** | Graduação
-- DÉBORA FRANÇA DEANDRADE, LUIZ ANTONIOD’AVILA E CRISTIANE GIMENES DE SOUZA | **Desenvolvimento de método para determinação de metanol em etanol combust´pivel usando um sensor de palygorskita** | Graduação
+- DÉBORA FRANÇA DE ANDRADE, LUIZ ANTONIO D’AVILA E CRISTIANE GIMENES DE SOUZA | **Determinação de água em etanol combustível usando um sensor de palygorskite** | Graduação
+- DÉBORA FRANÇA DEANDRADE, LUIZ ANTONIO D’AVILA E CRISTIANE GIMENES DE SOUZA | **Desenvolvimento de método para determinação de biodiesel em óleo diesel usando um sensor de palygorskite** | Graduação
+- DÉBORA FRANÇA DEANDRADE, LUIZ ANTONIO D’AVILA E CRISTIANE GIMENES DE SOUZA | **Desenvolvimento de método para determinação de metanol em etanol combust´pivel usando um sensor de palygorskita** | Graduação
 - DÉBORA FRANÇA DE ANDRADE, LUIZ ANTONIO D’AVILA E DANIELLA LOPEZ VALE | **Desenvolvimento de método de visão computacional para a determinação de biodiesel em óleo diesel** |  Graduação, Mestrado
 - DÉBORA FRANÇA DE ANDRADE, LUIZ ANTONIO D’AVILA E DANIELLA LOPEZ VALE | **Desenvolvimento e comparação de método de visão computacional e nariz eletrônico associados a inteligência artificial para a determinação de adulterações de etanol combustível por metanol** | Graduação, Mestrado
 - DÉBORA FRANÇA DE ANDRADE, LUIZ ANTONIO D’AVILA E RODOLFO SANTOS BARBOZA | **Produção de padrões de classes de mono-e diacilgliceróis por transposição de escala empregando a cromatografia líquida em escala semipreparativa** | Graduação, Mestrado

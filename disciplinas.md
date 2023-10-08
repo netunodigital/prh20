@@ -47,7 +47,7 @@
    - IQU-706: Química Orgânica Avançada (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_706-Quimica-Organica-Avancada.pdf)  
    - IQU-707: Físico-Química Avançada (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_707-Fisico_Quimica-Avancada.pdf)  
    - IQU-708: Química Inorgânica Avançada (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_708-Quimica-Inorganica-Avancada.pdf) 
-    - IQU-709: Química Analítica Avançada (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_709_QuimicaAnaliticaAvancada.pdf)  
+   - IQU-709: Química Analítica Avançada (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_709_QuimicaAnaliticaAvancada.pdf)  
    - IQU-711: Mecanismos de Reações Orgânicas (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_711-Mecanismos-de-Reacoes-Organicas.pdf)  
    - IQU-715: Química do Meio Ambiente (2 créditos | 30h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_715_Quimica_do_Meio_Ambiente.pdf)  
    - IQU-716: Métodos Físicos de Análise Orgânica (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_716-Metodos-Fisicos-de-Analise-Organica.pdf)  

@@ -14,5 +14,3 @@
   
 
 - NOVOS CATALISADORES PARA HDS SELETIVA DE NAFTA BASEADOS EM HIDROTALCITAS
-
-  ![enter image description here](../img/transporte.png)

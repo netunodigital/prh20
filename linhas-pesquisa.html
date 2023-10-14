@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>PRH 20.1</title>
+    <title>Exploração, Desenvolvimento e Produção de Petróleo e Gás | PRH 20.1</title>
     <link rel="stylesheet" type="text/css" href="estilos.css" media="screen" />
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
   </head>
   <body>
@@ -24,28 +25,44 @@
                 
             </div>
         </div>
-        <div id="page-content">
-
+        <div class="container" style="padding-top: 0;">
+            <div id="linhas">
+                <a href="exploracao-desenvolvimento-producao-petroleo-gas.html">
+                    <div id="linha1" class="botao-linha l1">
+                        <h2>EXPLORAÇÃO, DESENVOLVIMENTO E PRODUÇÃO DE PETRÓLEO E GÁS</h2>
+                    </div>
+                </a>
+                <a href="transporte-refino-processamento-gas-natural.html">
+                    <div id="linha2" class="botao-linha l1">
+                        <h2>TRANSPORTE, REFINO E PROCESSAMENTO DE GÁS NATURAL</h2>
+                    </div>
+                </a>
+                <a href="biocombustiveis-demais-energias-renovaveis.html">
+                    <div id="linha3" class="botao-linha l1">
+                        <h2>BIOCOMBUSTÍVEIS E DEMAIS ENERGIAS RENOVÁVEIS</h2>
+                    </div>
+                </a>
+                <a href="economia-baixo-carbono.html">
+                    <div id="linha4" class="botao-linha l1">
+                        <h2>ECONOMIA DE BAIXO CARBONO</h2>
+                    </div>
+                </a>
+                <a href="nanotecnologia-novos-materiais-setor-petroleo-gas.html">
+                    <div id="linha5" class="botao-linha l1">
+                        <h2>NANOTECNOLOGIA E NOVOS MATERIAIS PARA O SETOR DE PETRÓLEO E GÁS</h2>
+                    </div>
+                </a>
+                <a href="biotecnologia-setor-petroleo-gas.html">
+                    <div id="linha6" class="botao-linha l1">
+                        <h2>BIOTECNOLOGIA PARA O SETOR DE PETRÓLEO E GÁS</h2>
+                    </div>
+                </a>
+            </div>
         </div>
     </section>
     <section id="rodape">
     </section>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
-    <script>
-        var request = new XMLHttpRequest();
-        request.open('GET', 'https://netunodigital.github.io/prh20/linhas-pesquisa.md', false);
-        request.send(null);
-
-        if (request.status === 200) {
-            var converter = new showdown.Converter();
-            var md = request.responseText;
-            var html = converter.makeHtml(md);
-            var content = document.getElementById("page-content");
-            var request = new XMLHttpRequest();
-
-            content.innerHTML = html;
-        }
-    </script>
     <script>
         const icons = document.querySelectorAll('.icon');
         const menu = document.getElementById('menu');

@@ -12,9 +12,9 @@ body {
 
 .container {
     width: 100%;
-    max-width: 900px;
+    max-width: 950px;
     margin: auto;
-    padding: 50px 0;
+    padding: 50px 25px;
 }
 
 #home {
@@ -26,19 +26,21 @@ body {
 
 #home-content {
     width: 100%;
-    height: 1080px;
+    height: auto;
+    padding-bottom: 30px;
+    background-color: #304A7B;
     background: radial-gradient(71.83% 64.23% at 49.17% 64.67%, rgba(89, 185, 255, 0.80) 0%, rgba(74, 179, 255, 0.00) 89.06%), #304A7B;
     position: relative;
 }
 
 #home-about {
-    width: 900px;
+    width: 100%;
+    max-width: 900px;
     border-radius: 20px;
     border: 2px solid #8FB6FF;
     background: #FFF;
     box-shadow: 10px 10px 0px 0px #8FB6FF;
-    top: -150px;
-    position: absolute;
+    margin-top: -150px;
     padding: 50px 60px;
     text-align: center;
 }
@@ -83,7 +85,7 @@ body {
 
 #linhas-pesquisa {
     width: 100%;
-    padding: 200px 0 0;
+    margin-top: 80px;
 }
 
 #linhas-pesquisa h1 {
@@ -99,27 +101,64 @@ body {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
+}
+
+#linha1 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 40.58%, rgba(0, 0, 0, 1) 99.91%), url('img/exploracao.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+}
+
+#linha2 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 40.58%, rgba(0, 0, 0, 1) 99.91%), url('img/transporte.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+}
+
+#linha3 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 40.58%, rgba(0, 0, 0, 1) 99.91%), url('img/energia.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+#linha4 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 40.58%, rgba(0, 0, 0, 1) 99.91%), url('img/carbono.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    background-position: right;
+
+}
+
+#linha5 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 40.58%, rgba(0, 0, 0, 1) 99.91%), url('img/nanotecnologia.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#linha6 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 40.58%, rgba(0, 0, 0, 1) 99.91%), url('img/biotecnologia.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    background-position: center;
+
 }
 
 .botao-linha {
     position: relative;
     border-radius: 20px;
     box-shadow: 0px 0px 0px 0px #FFF;
-    transition: box-shadow 0.5s, transform 0.5s;
+    transition: all 0.5s;
     cursor: pointer;
+    background-color: #304A7B;
 }
 
 .botao-linha:hover {
     transform: translateX(-10px) translateY(-10px);
-    border-radius: 20px;
     box-shadow: 10px 10px 0px 0px #FFF;
 }
 
 .l1 {
     width: 280px;
-    height: 400px;
+    height: 280px;
 }
 
 .l2 {
@@ -130,39 +169,10 @@ body {
 .botao-linha h2 {
     text-transform: uppercase;
     position: absolute;
-    bottom: 20px;
-    left: 30px;
-    font-size: 20px;
-}
-
-
-#linha1 {
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 59.58%, rgba(0, 0, 0, 0.80) 99.91%), url("img/linha1.jpg") right, lightgray 50% / cover no-repeat;
-    background-size: cover;
-}
-
-#linha2 {
-    border-radius: 20px;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 59.58%, rgba(0, 0, 0, 0.80) 99.91%), url("img/linha2.jpg") right, lightgray 50% / cover no-repeat;
-    background-size: cover;
-}
-
-#linha3 {
-    border-radius: 20px;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 59.58%, rgba(0, 0, 0, 0.80) 99.91%), url("img/linha3.jpg") right, lightgray 50% / cover no-repeat;
-    background-size: cover;
-}
-
-#linha4 {
-    border-radius: 20px;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 59.58%, rgba(0, 0, 0, 0.80) 99.91%), url("img/linha2.jpg") right, lightgray 50% / cover no-repeat;
-    background-size: cover;
-}
-
-#linha5 {
-    border-radius: 20px;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 59.58%, rgba(0, 0, 0, 0.80) 99.91%), url("img/linha3.jpg") right, lightgray 50% / cover no-repeat;
-    background-size: cover;
+    bottom: 0;
+    left: 0;
+    margin: 25px 25px;
+    font-size: 16px;
 }
 
 #instagram {
@@ -183,9 +193,15 @@ body {
 }
 
 #apoio {
-    width: 910px;
-    height: 210px;
-    background-image: url(img/apoio.svg);
+    width: 100%;
+    border-radius: 20px;
+    padding: 30px;
+    border: 2px solid #007837;
+    box-shadow: 10px 10px 0px 0px #007837;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; 
+    justify-content: center;
 }
 
 #rodape {
@@ -223,12 +239,14 @@ body {
 
 #rodape #contato {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
-#rodape #contato div {
+#rodape #contato>div {
     text-align: center;
+    min-width: 200px;
+    margin: 20px;
 }
 
 #burger {
@@ -297,7 +315,8 @@ body {
   }
 
 #menu {
-    width: 500px;
+    max-width: 500px;
+    width: 100%;
     height: 100vh;
     background-color: #fff;
     position: fixed;
@@ -358,14 +377,15 @@ body {
 }
 
 #page #header {
-    height: 150px;
+    height: 120px;
 }
 
 #page #header h1 {
     text-align: center;
     color: #304A7B;
-    margin-top: 70px;
+    margin: 70px auto 0;
     text-transform: uppercase;
+    max-width: 500px;
 }
 
 #page #page-content {
@@ -374,7 +394,8 @@ body {
     background: #FFF;
     box-shadow: 10px 10px 0px 0px #8FB6FF;
     margin: 10px auto;
-    width: 900px;
+    max-width: 900px;
+    width: 100%;
     padding: 30px 50px;
 }
 
@@ -403,6 +424,7 @@ body {
 #page #page-content p {
     font-size: 16px;
     line-height: 28px;
+    text-align: justify;
 }
 
 #page #page-content img {
@@ -418,7 +440,12 @@ body {
 }
 
 #page #page-content li {
-    padding: 5px 0;
+    padding: 5px 15px 5px 0px;
+}
+
+
+#page #page-content li p {
+    text-align: left;
 }
 
 #page #page-content a {
@@ -432,6 +459,107 @@ body {
     text-decoration: underline;
 }
 
+#page-content {
+    width: 100%;
+}
+
+#page-content .discentes,
+#page-content .equipe {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+#page-content .membro {
+    width: calc(25% - 20px);
+    min-width: 180px;
+}
+
+#page-content .discentes img, 
+#page-content .equipe img {
+    width: 100% !important;
+    height: 250px;
+    object-fit: cover;
+    margin: 0 !important;
+    border-radius: 15px;
+    border: 2px solid #304A7B;
+    box-shadow: 5px 5px 0px 0px #304A7B;
+}
+
+#page-content .equipe .membro .infos {
+    margin: 20px;
+}
+
+#page-content .discentes h3 {
+    margin-top: 20px !important;
+    text-align: left !important;
+}
+
+#page-content .equipe h3 {
+    margin: 0 !important;
+    margin-top: 20px !important;
+    text-align: left !important;
+}
+
+#page-content .equipe h4 {
+    margin: 5px 0px !important;
+    text-align: left !important;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+
+#page-content .equipe h5 {
+    margin: 5px 0px !important;
+    text-align: left !important;
+    font-size: 14px !important;
+    font-weight: 500;
+}
+
 #menu {
     color:#304A7B
 }
+
+
+@media (max-width: 750px) {
+    #home-about p {
+        line-height: 30px;
+    }
+    #home-about {
+        padding: 30px 40px;
+        margin-top: -200px;
+    }
+
+    #header #logo {
+        width: 180px;
+        top: 25px;
+        left: 35px;
+    }
+
+    #burger {
+        top: 20px;
+        right: 35px;
+    }
+    .icon.nav-icon-5,
+    .icon.nav-icon-5.open {
+        transform: scale(0.8);
+    }
+    
+    #page #page-content {
+        padding: 20px 30px;
+    }  
+
+    #page #header {
+        height: 70px;
+    }
+
+    #page #header h1 {
+        margin-top: 160px;
+    }
+
+    #page-content .membro {
+        height: 320px;
+    }
+
+  }

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Equipe | PRH 20.1</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css" media="screen" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  </head>
+  <body>
+    <section id="page">
+        <div id="header">
+            <a href="index.html">
+                <img id="logo" src="img/logo.svg" />
+            </a>
+            <h1>Equipe</h1>
+            <div id="burger">
+                <div class="icon nav-icon-5">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div id="menu">
+                
+            </div>
+        </div>
+        <div id="page-content">
+            <h2>Coordenação</h2>
+            <div class="equipe" id="coordenacao">
+            </div>
+            <h2>Pesquisadora Visitante</h2>
+            <div class="equipe" id="pesquisadores">
+            </div>
+            <h2>Comissão Gestora</h2>
+            <div class="equipe" id="comissao">
+            </div>
+        </div>
+    </section>
+    <section id="rodape">
+    </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+    <script>
+        function createMember(name, url, email, dep) {
+            return(`<div class="membro">
+                    <img src="` + url + `" \\>
+                    <h3>` + name + `</h3>
+                    <h4>` + dep + `</h4>
+                    <a href="mailto:` + email + `"><h5>` + email + `</h5>
+                </div>`)
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/coordenacao.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#coordenacao").append(createMember(split[0], split[1], split[2], split[3]));
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/pesquisadores.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#pesquisadores").append(createMember(split[0], split[1], split[2], split[3]));
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/comissao.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#comissao").append(createMember(split[0], split[1], split[2], split[3]));
+        }
+        
+    </script>
+    <script>
+        const icons = document.querySelectorAll('.icon');
+        const menu = document.getElementById('menu');
+        icons.forEach (icon => {  
+        icon.addEventListener('click', (event) => {
+            icon.classList.toggle("open");
+            menu.classList.toggle("open");
+        });
+        });
+    </script>
+    <script> 
+        $(function(){
+          $("#menu").load("menu.html");
+          $("#rodape").load("rodape.html"); 
+        });
+    </script> 
+  </body>
+</html>

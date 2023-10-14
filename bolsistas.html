@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Bolsistas | PRH 20.1</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css" media="screen" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  </head>
+  <body>
+    <section id="page">
+        <div id="header">
+            <a href="index.html">
+                <img id="logo" src="img/logo.svg" />
+            </a>
+            <h1>Bolsistas</h1>
+            <div id="burger">
+                <div class="icon nav-icon-5">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div id="menu">
+                
+            </div>
+        </div>
+        <div id="page-content">
+            <h2>Graduação</h2>
+            <div class="discentes" id="graduacao">
+            </div>
+            <h2>Mestrado</h2>
+            <div class="discentes" id="mestrado">
+            </div>
+            <h2>Doutorado</h2>
+            <div class="discentes" id="doutorado">
+            </div>
+        </div>
+    </section>
+    <section id="rodape">
+    </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+    <script>
+
+        function createMember(name, url) {
+            return(`<div class="membro">
+                    <img src="` + url + `" \\>
+                    <h3>` + name + `</h3>
+                </div>`)
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/graduacao.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#graduacao").append(createMember(split[0], split[1]));
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/mestrado.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#mestrado").append(createMember(split[0], split[1]));
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/doutorado.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#doutorado").append(createMember(split[0], split[1]));
+        }
+        
+    </script>
+    <script>
+        const icons = document.querySelectorAll('.icon');
+        const menu = document.getElementById('menu');
+        icons.forEach (icon => {  
+        icon.addEventListener('click', (event) => {
+            icon.classList.toggle("open");
+            menu.classList.toggle("open");
+        });
+        });
+    </script>
+    <script> 
+        $(function(){
+          $("#menu").load("menu.html");
+          $("#rodape").load("rodape.html"); 
+        });
+    </script> 
+  </body>
+</html>

@@ -41,8 +41,6 @@
   
 - GERAÇÃO E EXPULSÃO DE ÓLEO A PARTIR DE ROCHAS GERADORAS POR HIDROPIRÓLISE. CRAQUEAMENTO E ESTABILIDADE TÉRMICA DE AMOSTRAS DE PETRÓLEO
 
-![enter image description here](../img/exploracao.png)
-
 
 
 

@@ -20,5 +20,3 @@
   
 
 - ESTUDO DE CICLO DE VIDA DE ADSORVENTES PARA A CAPTURA DE CO2
-
-  ![enter image description here]![enter image description here](img/carbono.png)

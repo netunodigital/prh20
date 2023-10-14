@@ -35,13 +35,16 @@
             <h2>Comissão Gestora</h2>
             <div class="equipe" id="comissao">
             </div>
+            <h2>Apoio Técnico</h2>
+            <div class="equipe" id="apoio-tecnico">
+            </div>
         </div>
     </section>
     <section id="rodape">
     </section>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
     <script>
-        function createMember(name, url, email, dep) {
+        function createMember(name, url, email, dep = "") {
             return(`<div class="membro">
                     <img src="` + url + `" \\>
                     <h3>` + name + `</h3>
@@ -69,7 +72,7 @@
         while( typeof table[0] !== "undefined" ){
             var line = table.shift();
             var split = line.split(';');
-            $("#pesquisadores").append(createMember(split[0], split[1], split[2], split[3]));
+            $("#pesquisadores").append(createMember(split[0], split[1], split[2]));
         }
 
         var request = new XMLHttpRequest();
@@ -81,6 +84,17 @@
             var line = table.shift();
             var split = line.split(';');
             $("#comissao").append(createMember(split[0], split[1], split[2], split[3]));
+        }
+
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://netunodigital.github.io/prh20/apoio_tecnico.csv', false);
+        request.send(null);
+
+        var table = request.responseText.split("\n").slice(0, -1);
+        while( typeof table[0] !== "undefined" ){
+            var line = table.shift();
+            var split = line.split(';');
+            $("#apoio-tecnico").append(createMember(split[0], split[1], split[2]));
         }
         
     </script>

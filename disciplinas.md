@@ -43,7 +43,11 @@
 
  - IQU-721: Petróleo e Derivados (4 créditos | 60h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_721-Petroleo-e-Derivados.pdf)  
  - IQU-811: Seminários de Petróleo e Gás (1 crédito | 15h teórica) | [Ementa](https://pgqu.iq.ufrj.br/wp-content/uploads/2019/03/IQU_811-Seminarios-de-Petroleo-e-Gas.pdf)
-    
+ 
+
+### Disciplinas Eletivas
+
+  
  - IQB-710: Processamento Biotecnológico de Biomassa (4 créditos | 60h teórica) | [Ementa](https://ppgbq.iq.ufrj.br/wp-content/uploads/IQB-710-PROCESSAMENTO-BIOTECNOLOGICO-DE-BIOMASSA.pdf)  
  - IQB-748: Aplicação de Enzimas em Biotecnologia (3 créditos | 45h teórica) | [Ementa](https://ppgbq.iq.ufrj.br/wp-content/uploads/IQB-748-APLICACAO-DE-ENZIMAS-EM-BIOTECNOLOGIA.pdf)  
  - IQB-722: Biocatálise, Bioenergia e Meio Ambiente (2 créditos | 30h teórica) | [Ementa](https://ppgbq.iq.ufrj.br/wp-content/uploads/IQB-722-BIOCATALISE-BIOENERGIA-E-MEIO-AMBIENTE.pdf)  

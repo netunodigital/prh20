@@ -1,0 +1,37 @@
+## Prêmios concedidos, em 2023, a discentes e docentes do Programa Químico de Petróleo e Biocombustíveis – PRH 20.1
+
+### Prêmios
+- Prêmio Inventor Petrobras 2023-Processo para degradação enzimática de PET por fermentação submersa. ALINE MACHADO DE CASTRO; MARIA CRISTINA BRUM; **DENISE MARIA GUIMARÃES FREIRE**; CAROLINA ZANON COSTA; FLÁVIO CORTINAS ALBUQUERQUE; MARIA ALICE ZARUR COELHO; CÉZAR REZENDE DA MOTTA
+
+- Brasileiros mais citados na área da Química, [https://research.com/scientists-rankings/mechanical-and-aerospace-engineering/br](https://research.com/scientists-rankings/mechanical-and-aerospace-engineering/br). (Word: 5509, National: 19, D-Index: 63, Citations: 10994, Publications: 266), **DENISE MARIA GUIMARÃES FREIRE**.
+
+- Cientistas mais influentes do planeta na área da Química, October 2023 data-update for "Updated science-wide author databases of standardized citation indicators", [https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), **DENISE MARIA GUIMARÃES FREIRE.**
+
+- Cientistas mais influentes do planeta na área da Química, October 2023 data-update for "Updated science-wide author databases of standardized citation indicators", [https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), **CLÁUDIO JOSÉ DE ARAÚJO MOTA.**
+- Certificamos que o trabalho SEPARAÇÃO DO BIODIESEL DE MISTURAS TERNÁRIAS DO TIPO BIODIESEL, DIESEL FÓSSIL E DIESEL RENOVÁVEL POR EXTRAÇÃO EM FASE SÓLIDA, de autoria de FELIPE RODRIGUES RAPOSO, **CRISTIANE GIMENES DE SOUZA**, RENAN DE OLIVEIRA MUNIZ e DANIEL ALMEIDA COZENDEY DA SILVA e orientado por MONICA COSTA PADILHA, **DÉBORA FRANÇA DE ANDRADE** e LUIZ ANTONIO D AVILA recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023.
+
+- Certificamos que o trabalho DESENVOLVIMENTO DE MÉTODO EMPREGANDO VISÃO COMPUTACIONAL E NARIZ ELETRÔNICO ASSOCIADOS A INTELIGÊNCIA ARTIFICIAL PARA A DETERMINAÇÃO DE ADULTERAÇÕES DE ETANOL COMBUSTÍVEL POR METANOL, de autoria de LANDERSON MATHEUS BARBOSA PEREIRA, **DANIELLA LOPEZ VALE**, RENAN DE OLIVEIRA MUNIZ, **CRISTIANE GIMENES DE SOUZA**, RICARDO CUNHA MICHEL e LUIZ ANTONIO D AVILA e orientado por **DÉBORA FRANÇA DE ANDRADE** recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho SEPARAÇÃO COM ALTA PRODUTIVIDADE DE ÉSTERES METÍLICOS DE ÁCIDOS GRAXOS PRESENTES NO BIODIESEL POR CROMATOGRAFIA LÍQUIDA DE ALTA EFICIÊNCIA EM ESCALA SEMIPREPARATIVA , de autoria de MARINA SOARES GARRIDO, **CRISTIANE GIMENES DE SOUZA** e RENAN DE OLIVEIRA MUNIZ e orientado por RODOLFO SANTOS BARBOZA, **DÉBORA FRANÇA DE ANDRADE** e LUIZ ANTONIO D AVILA recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho DESENVOLVIMENTO DE MÉTODO PARA CARACTERIZAÇÃO DOS PRODUTOS DE OXIDAÇÃO DO BIODIESEL POR CL-EMAR , de autoria de JOÃO VITOR, GABRIEL REIS ALVES CARNEIRO, **CRISTIANE GIMENES DE SOUZA**, **DÉBORA FRANÇA DE ANDRADE** e LUIZ ANTONIO D AVILA e orientado por RENAN DE OLIVEIRA MUNIZ e MONICA COSTA PADILHA recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho TRANSIÇÃO ENERGÉTICA MEDIADA PELA EDUCAÇÃO AMBIENTAL CRÍTICA EM BIOCOMBUSTÍVEIS, de autoria de **BEATRIZ DE MATOS MASSAFERRI ACHA DAVID** e orientado por JUSSARA LOPES DE MIRANDA recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- The Scientific Committee of the XVI ALAGO Congress awarded the papel entitled “Evaluation of the molecular chemical profile of Brazilian oils for forensic studies and investigations of environmental crimes” presented by **FLÁVIA RODRIGUES ALVARES** as the Best Oral Presentation. (Realizada no período de 09 a 11 de Agosto de 2023, na cidade de Aracaju, Brasil)
+
+- Certificamos que o trabalho PRODUÇÃO DE LIPASES DE R. MIEHEI E BIODIESEL EM BIORREATOR DE LEITO-FIXO MULTIPROPÓSITO: ANÁLISE TÉCNICO-ECONÔMICA DA INTENSIFICAÇÃO DO BIOPROCESSO , de autoria de MARLON OLIVEIRA ALVES, **DENISE M G FREIRE**, RUI DE PAULA VEIRA DE CASTRO e SABRINI NATALI DA SILVA ÁVILA e orientado por **ELISA D'AVILA COSTA CAVALCANTI** recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho ESTUDO DE SISTEMA MULTIPROPÓSITO PARA PRODUÇÃO DE ENZIMAS E BIODIESEL, de autoria de MAYARA SILVA DE ALMEIDA, SABRINI NATALI DA SILVA ÁVILA e **DENISE M G FREIRE** e orientado por **ELISA D'AVILA COSTA CAVALCANTI** recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho AVALIAÇÃO DA ATIVIDADE LIPÁSICA DO PREPARADO ENZIMÁTICO SÓLIDO DE RHYZOPUS ORYZAE NA PRODUÇÃO DE BIODIESEL A PARTIR DO ÓLEO DE MILHO , de autoria de JULIA SANTOS FERREIRA MAINI, JEFFERSON PEREIRA CUNHA, **ELISA D'AVILA COSTA CAVALCANTI**, ERIKA CRISTINA GONÇALVES AGUIEIRAS e RUI DE PAULA VEIRA DE CASTRO e orientado por VANESSA ALVES LIMA ROCHA e **DENISE M G FREIRE** recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho AVALIAÇÃO DE PREPARADOS ENZIMÁTICOS SÓLIDOS COM ATIVIDADE LIPÁSICA NO PROCESSO DE PRODUÇÃO DE BIODIESEL DE ÓLEO DE MILHO , de autoria de JEFFERSON PEREIRA CUNHA e JULIA SANTOS FERREIRA MAINI e orientado por ERIKA CRISTINA GONÇALVES AGUIEIRAS, **ELISA D'AVILA COSTA CAVALCANTI** e **DENISE M G FREIRE** recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Químico do Ano 2023 - concedido a **JÚLIO CARLOS AFONSO** pelo Conselho Regional de Química 3a Região (Rio de Janeiro), em cerimônia ocorrida em 29 de junho de 2023 no Clube de Engenharia do Rio de Janeiro
+
+- Premiação como um dos 15 melhores trabalhos no 20o Congresso Nacional de Poços de Caldas, realizado no período 19 a 22 de outubro de 2023, com o trabalho intitulado “A construção do conhecimento científico a partir da educação ambiental crítica: uma influência das relações de poder”, dos autores Priscila Tamiasso Martinhon, Luciana Pereira de Almeida, Victória Beatriz dos Santos de Oliveira, **JUSSARA LOPES DE MIRANDA**.
+
+- Certificamos que o trabalho CARACTERIZAÇÃO E AVALIAÇÃO DO EFEITO DO PRÉ-TRATAMENTO POR EXTRUSÃO NA EXTRAÇÃO DE LIPÍDEOS DOS GRÃOS DE CAFÉ ARÁBICA CRU (COFFEA ARABICA L.) DEFEITUOSOS , de autoria de GABRIEL ALMEIDA CORREIA e RAQUEL COLDIBELLI RIBEIRO e orientado por **RICARDO SPOSINA SOBRAL TEIXEIRA** e CLAUDIA REZENDE recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023
+
+- Certificamos que o trabalho OTIMIZAÇÃO DA PRODUÇÃO DE MANANASES PELO ASPERGILLUS NIGER 1234 COM BIOMASSA DE CAFÉ, de autoria de LEONARDO JOAO BICALHO DE MORAES DE BARROS, RAQUEL COLDIBELLI RIBEIRO, CLAUDIA REZENDE e AYLA SANT ANA DA SILVA e orientado por **RICARDO SPOSINA SOBRAL TEIXEIRA** recebeu Menção Honrosa na 12ª Semana de Integração Acadêmica da UFRJ, realizada no período de 29 de maio a 02 de junho de 2023

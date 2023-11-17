@@ -8,3 +8,4 @@
 - [Plano de trabalho de aluno não bolsista](https://netunodigital.github.io/prh20/documentos/PLANO%20DE%20TRABALHO%20DE%20ALUNO%20N%C3%83O%20BOLSISTA.docx)
 - [Solicitação de uso de TX de bancada para compra de material de consumo](https://netunodigital.github.io/prh20/documentos/SOLICITA%C3%87%C3%83O%20DE%20USO%20DA%20TX%20DE%20BANCADA.docx) 
 - [Solicitação de uso de TX de bancada para participação em eventos e/ou congressos](https://netunodigital.github.io/prh20/documentos/SOLICITA%C3%87%C3%83O%20DE%20USO%20DA%20TX%20DE%20BANCADA%20PARA%20EVENTOS%20E%20CONGRESSOS.docx)
+- [Ata de defesa do Programa Químico de Petróleo e Biocombústiveis](https://netunodigital.github.io/prh20/documentos/Ata%20de%20defesa%20do%20Programa%20Qu%C3%ADmico%20de%20Petr%C3%B3leo%20e%20Biocomb%C3%BAstiveis.doc)

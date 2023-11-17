@@ -5,7 +5,7 @@
  - IQW-599: Biomassa e Biocombustíveis (2 créditos | 30h teórica) |
    [Ementa](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/29235503-92A4-F79B-06AF-68B080672632.html)  
    
- - IQW-595: Natureza e Caracterização de Petóleo e Derivados (3 créditos | 45h teórica) | Ementa  
+ - IQW-595: Natureza e Caracterização de Petóleo e Derivados (3 créditos | 45h teórica) | [Ementa](https://siga.ufrj.br/sira/repositorio-curriculo/disciplinas/816D4275-92A4-F79A-7FB0-AA92DFC31B22.html)  
  
  - IQW-597: Petróleo e Meio Ambiente (2 créditos | 30h teórica) | [Ementa](https://siga.ufrj.br/sira/repositorio-curriculo/disciplinas/97342410-92A4-F713-0056-3E39709AA5CB.html)  
 

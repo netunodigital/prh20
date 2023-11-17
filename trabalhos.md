@@ -1,12 +1,10 @@
 ## 2023
-
-### Tese de Doutorado
+### Projeto de Curso de Graduação
 
 - **Caio Barbosa e Souza** | Síntese, caracterização e avaliação de óxido de nióbio contendo K, Na, Ca, Mg e Lantânio na produção de biodiesel | **Orientador**: Elizabeth Roditi Lachter
-### Dissertação de Mestrado
+
 - **Gustavo Almeida de Oliveira** | Estudo e obtenção de novos inibidores naturais de corrosão e de incrustação para o meio do pré-sal: Juçara e derivados do Furfural | **Orientador**: Eliane D’Elia
 
-### Projeto de Curso de Graduação
 
 - **Lucas Vieira de Souza** | Captura de CO2 através da utilização de óxidos metálicos mistos derivados dos hidróxidos duplos lamelares, HDL-CO3 MgAl | **Orientador**: Luiza Cristina de Moura e Jussara Lopes de Miranda
 
@@ -43,14 +41,13 @@
 
 ### Projeto de Curso de Graduação
 
--  **Nadila Maria Correa da Cunha Esteves Alves** | Estudo da conversão de CO2 a dimetil carbonato e dietilcarbonato utilizando catalisadores de CO2-Al2O3 e supressoes químicos da água  |aplicação do óxido ternário Sílica-alumina-zircônia obtido pelo processo solgel: Um novo adsorvente para íons metálicos em águas de produção da indústria de petróleo | **Orientador** : Emerson Schwingel Ribeiro e Julio Carlos Afonso
--  **OCrientador** : Jussara Lopes de Miranda
+-  **Nadila Maria Correa da Cunha Esteves Alves** | Estudo da conversão de CO2 a dimetil carbonato e dietilcarbonato utilizando catalisadores de CO2-Al2O3 e supressoes químicos da água  |aplicação do óxido ternário Sílica-alumina-zircônia obtido pelo processo solgel: Um novo adsorvente para íons metálicos em águas de produção da indústria de petróleo | **Orientador**  : Jussara Lopes de Miranda
 
-
+-  **Carolina Leão Quintanilha** | Processamento Químico de catalisadores gastos de unidade de hidrodessulfurização Profundo | **Orientador**  : Julio Carlos Afonso
 
 ## 2017
 
-### Tstiano Nunese de Doutorado
+### Tese de Doutorado
 
 -  **Santiago Villabona Estupiñán** | Polietileno glicol e derivados hidrofobizados em fluidos de perfuração de base aquosa: Estudo do mecanismo de ação como inibidores de argilas reativas  | **Orientador** : Regina Sandra Veiga de Nascimento e Jorge de Almeida Rodrigues Junior
 
@@ -69,3 +66,32 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 -  **Thairine Lima dos Santos**| Caracterização de óleo do Golfo do México por parâmetros Geoquímicos  | **Orientador** : Celeste Yara dos Santos Siqueira
 
 -  **Thamires Rabelo Passos Pontes**| Desenvolvimento de novos aditivos para fluidos de perfuração a partir de Taninos  | **Orientador** : Jorge de Almeida Rodrigues Junior
+
+## 2016
+
+### Tese de Doutorado
+
+- **Conny Ceral Ferreira**| Síntese e Avaliação de poligliceróis hiperrramificados parcialmente hidrofobizados como inibidores de reatividade de folhelhos em fluidos de perfuração de base aquosa | **Orientador** : Regina Sandra Veiga de Nascimento e Elizabeth Roditi Lachter
+
+- **Santiago Arias Henão**| Sulfetos mistos obtidos a partir de hidrotalcitas como catalisadores para hidrotratamento | **Orientador** : Arnaldo da Costa Faro Jr, Luz Amparo Palacio Santos e Jean Guilaune Eon
+
+### Dissertação de Mestrado
+
+- **Luzianne Pereira alves**| Quantificação de Al em suportes e catalisadores de hidrotratamento por RMN de sólidos | **Orientador** : Rosane Aguiar da Silva San Gil e Arnaldo da Costa Faro Junior
+- **Priscila Quartorone**| Desenvolvimento de materiais de combate à perda de circulação para reservatórios depletados | **Orientador** : Regina Sandra Veiga do Nascimento
+
+### Projeto de Curso de Graduação
+
+- **Alan de Vasconcelos Bevino da Costa**| Síntese de Candidatos a inibidores de incrustação inorgânica para aplicação na produção de petróleo nos campos de pré-sal | **Orientador** : Michelle Jakeline Cunha Rezende
+
+- **Patricia Crisótono Silva Araújo**| Estudo da ação antioxidante e anticorrosiva de extratos do engaço e bagaço provenientes do processo de vinificação em tinto | **Orientador** : Eliane D’elia
+
+- **Fábio Jorge de Vasconcellos Junior**| Estudos Mecanísticos através de reações de troca isotópica H/D ativação do propano sobre catalisadores de Gálio Suportados em Zeólitas HZM5 | **Orientador** : Arnando da Costa Faro Junior e Victor de Oliveira Rodrigues
+
+- **Tatiana Ferreira de Abreu**| Desenvolvimento de materiais híbridos metalorgânicos de alumínio para captura de CO2 de efluentes gasosos de refinaria de petróleo e termoelétricas | **Orientador** : Jussara Lopes de Miranda
+
+
+
+## 2015
+
+### Tese de Doutorado

@@ -455,11 +455,6 @@ body {
     padding: 5px 15px 5px 0px;
 }
 
-
-#page #page-content li p {
-    text-align: left;
-}
-
 #page #page-content a {
     text-decoration: none;
     color: #304A7B !important;
@@ -526,6 +521,7 @@ body {
     text-align: left !important;
     font-size: 14px !important;
     font-weight: 500;
+    word-break: break-all;
 }
 
 #menu {

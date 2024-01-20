@@ -10,7 +10,7 @@
  - IQW-597: Petróleo e Meio Ambiente (2 créditos | 30h teórica) | [Ementa](https://siga.ufrj.br/sira/repositorio-curriculo/disciplinas/97342410-92A4-F713-0056-3E39709AA5CB.html)  
 
 - IQO-002: Processamento de Petróleo, Gás Natural e Biocombustíveis (2 créditos |30h teórica) | [Ementa](https://siga.ufrj.br/sira/repositorio-curriculo/disciplinas/0E22EE0B-92A4-F79A-6495-C6A8C57800D7.html)  
-- IQW-X03: Seminários de Petróleo e Gás (1 créditos | 15h teórica) | [Ementa](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/D9E7C7D1-92A4-F79B-3F63-58B82B245516.html)  
+- IQW-X03: Seminários de Petróleo e Gás (1 crédito | 15h teórica) | [Ementa](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/D9E7C7D1-92A4-F79B-3F63-58B82B245516.html)  
 - IQW-624: Técnicas de Caracterização de Petróleo e Derivados (4 créditos | 45h teórica | 30h prática) | Ementa
 
 ### Disciplinas Eletivas

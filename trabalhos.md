@@ -1,4 +1,8 @@
 ## 2023
+
+### Dissertação de Mestrado
+- **Jéssica de Oliveira Sousa** | Avaliação de carboidratos presentes em resíduos agroindustrais como potenciais inibidores verde de carbonato de cálcio para indústria de petróleo de gás. | **Orientador**: Vinícius Tadeu Kartnaller Montalvão e Fabrício de Queiroz Venâncio
+
 ### Projeto de Curso de Graduação
 
 - **Caio Barbosa e Souza** | Síntese, caracterização e avaliação de óxido de nióbio contendo K, Na, Ca, Mg e Lantânio na produção de biodiesel | **Orientador**: Elizabeth Roditi Lachter
@@ -6,7 +10,7 @@
 - **Gustavo Almeida de Oliveira** | Estudo e obtenção de novos inibidores naturais de corrosão e de incrustação para o meio do pré-sal: Juçara e derivados do Furfural | **Orientador**: Eliane D’Elia
 
 
-- **Lucas Vieira de Souza** | Captura de CO2 através da utilização de óxidos metálicos mistos derivados dos hidróxidos duplos lamelares, HDL-CO3 MgAl | **Orientador**: Luiza Cristina de Moura e Jussara Lopes de Miranda
+- **Lucas Vieira de Souza** | Captura de CO<sub>2</sub> através da utilização de óxidos metálicos mistos derivados dos hidróxidos duplos lamelares, HDL-CO3 MgAl | **Orientador**: Luiza Cristina de Moura e Jussara Lopes de Miranda
 
 ## 2022
 
@@ -15,6 +19,7 @@
 - **Alexandre Narcelli Pestana de Aguiar** | Estudo da conversão de hidratos de metano |  **Orientador**: João Francisco Cajaíba da Silva
 
 - **Nayanna Souza Passos** | Avaliação do processo de inibição de incrustação inorgânica de carbonato de cálcio utilizando planejamento experimental: vantagens e limitações | **Orientador**:Vinicius Ottonio de Oliveira Gonçalves e Vinicius Tadeu Kartneller Montalvão
+- 
 ### Projeto de Curso de Graduação
 - **Flávia Rodrigues Alvares** | Geoquímica forense molecular: especiação de óleos brasileiros no setor petrolífero e em crimes ambientais | **Orientador**: Gabriela Vanini Costa
 
@@ -29,7 +34,7 @@
 ### Tese de Doutorado
 
 - **Cristiano Nunes da Silva** | Preparação, caracterização e aplicação do óxido ternário Sílica-alumina-zircônia obtido pelo processo solgel: Um novo adsorvente para íons metálicos em águas de produção da indústria de petróleo | **Orientador** : Emerson Schwingel Ribeiro e Julio Carlos Afonso
-
+- 
 ## 2018
 
 ### Tese de Doutorado
@@ -42,7 +47,7 @@
 
 ### Projeto de Curso de Graduação
 
--  **Nadila Maria Correa da Cunha Esteves Alves** | Estudo da conversão de CO2 a dimetil carbonato e dietilcarbonato utilizando catalisadores de CO2-Al2O3 e supressoes químicos da água  |aplicação do óxido ternário Sílica-alumina-zircônia obtido pelo processo solgel: Um novo adsorvente para íons metálicos em águas de produção da indústria de petróleo | **Orientador**  : Jussara Lopes de Miranda
+-  **Nadila Maria Correa da Cunha Esteves Alves** | Estudo da conversão de CO<sub>2</sub> a dimetil carbonato e dietilcarbonato utilizando catalisadores de CO<sub>2</sub>-Al<sub>2</sub>O<sub>3</sub> e supressoes químicos da água  |aplicação do óxido ternário Sílica-alumina-zircônia obtido pelo processo solgel: Um novo adsorvente para íons metálicos em águas de produção da indústria de petróleo | **Orientador**  : Jussara Lopes de Miranda
 
 -  **Carolina Leão Quintanilha** | Processamento Químico de catalisadores gastos de unidade de hidrodessulfurização Profundo | **Orientador**  : Julio Carlos Afonso
 
@@ -53,11 +58,11 @@
 -  **Santiago Villabona Estupiñán** | Polietileno glicol e derivados hidrofobizados em fluidos de perfuração de base aquosa: Estudo do mecanismo de ação como inibidores de argilas reativas  | **Orientador** : Regina Sandra Veiga de Nascimento e Jorge de Almeida Rodrigues Junior
 
 -  **Javier Freddy Molina Pimentel** | Síntese enzimática de Oligossacarídeos empregando 
-Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avaliação de dissacarídeos como indutores da produção de celulases no fungo trichoderma reesei Rut – C30  | **Orientador** : Viridiana Santana Ferreira Leitão ,Ayla Sant’Anna da Silva e Elba Pinto da Silva Bon
+Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avaliação de dissacarídeos como indutores da produção de celulases no fungo trichoderma reesei Rut – C<sub>3</sub>0  | **Orientador** : Viridiana Santana Ferreira Leitão ,Ayla Sant’Anna da Silva e Elba Pinto da Silva Bon
 
 ### Dissertação de Mestrado
 
--  **Fernanda da Silva Martins** | Síntese de membranas de matriz mista com materiais híbridos metalorgânicos de Zr para capturas de CO2  | **Orientador** : Jussara Lopes de Miranda
+-  **Fernanda da Silva Martins** | Síntese de membranas de matriz mista com materiais híbridos metalorgânicos de Zr para capturas de CO<sub>2</sub>  | **Orientador** : Jussara Lopes de Miranda
 
 ### Projeto de Curso de Graduação
 
@@ -79,7 +84,6 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 ### Dissertação de Mestrado
 
 - **Luzianne Pereira alves**| Quantificação de Al em suportes e catalisadores de hidrotratamento por RMN de sólidos | **Orientador** : Rosane Aguiar da Silva San Gil e Arnaldo da Costa Faro Junior
-
 - **Priscila Quartorone**| Desenvolvimento de materiais de combate à perda de circulação para reservatórios depletados | **Orientador** : Regina Sandra Veiga do Nascimento
 
 ### Projeto de Curso de Graduação
@@ -90,7 +94,7 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 
 - **Fábio Jorge de Vasconcellos Junior**| Estudos Mecanísticos através de reações de troca isotópica H/D ativação do propano sobre catalisadores de Gálio Suportados em Zeólitas HZM5 | **Orientador** : Arnando da Costa Faro Junior e Victor de Oliveira Rodrigues
 
-- **Tatiana Ferreira de Abreu**| Desenvolvimento de materiais híbridos metalorgânicos de alumínio para captura de CO2 de efluentes gasosos de refinaria de petróleo e termoelétricas | **Orientador** : Jussara Lopes de Miranda
+- **Tatiana Ferreira de Abreu**| Desenvolvimento de materiais híbridos metalorgânicos de alumínio para captura de CO<sub>2</sub> de efluentes gasosos de refinaria de petróleo e termoelétricas | **Orientador** : Jussara Lopes de Miranda
 
 
 
@@ -104,7 +108,7 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 
 ### Dissertação de Mestrado
 
-- **Daniele Werneck de Souza Alburquerque**| Síntese e caracterização do material híbrido metal-orgânico Mg-MOF-74 e sua aplicação em membrana polimérica para a captura de CO2 | **Orientador** : Jussara Lopes de Miranda
+- **Daniele Werneck de Souza Alburquerque**| Síntese e caracterização do material híbrido metal-orgânico Mg-MOF-74 e sua aplicação em membrana polimérica para a captura de CO<sub>2</sub> | **Orientador** : Jussara Lopes de Miranda
 
 - **Mostafa Galal Abdelfattah Mohamed Abdoelkheir**| Influence of SBR latex on the hydration and mechanical behavior of oil well cement slurries subjected to thermal recovery processing | **Orientador** : Celeste Yara dos Santos Siqueira e Romildo Dias Toledo Filho
 
@@ -115,7 +119,6 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 - **Danielly Chagas de Oliveira Mariano**| Avaliação calorimétrica de retardamento de reações de geração de nitrogênio e modelagem cinética de sistemas SGN emulsionados | **Orientador** : João Francisco Cajaiba da Silva
 
 - **Luciana Gondim Monteiro**| Síntese de 1-Ohexadecil-gliceroarilboranatos como potenciais aditivos anti-incrustantes para tintas marítimas | **Orientador** : Rosangela Sabbatini Capella Lopes
-- 
 - **Michaely Cristina Tenório da Costa**| Análise voltamétrica de morfolina presente em inibidores de corrosão comerciais utilizando eletrodos de diamante dopados com boro. | **Orientador** : Eliane D’Elia
 
 ### Projeto de Curso de Graduação
@@ -138,7 +141,7 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 - **Daniele Bráz Azevedo Farias**| Uso de taninos no desenvolvimento de aditivos para fluidos de perfuração de base aquosa | **Orientador** : Regina Sandra Veiga Nascimento e  
 Jorge de Almeida Rodrigues Junior
 
-- **Jéssica de Souza Ribeiro**| Síntese e caracterização dos materiais híbridos metal-orgânicos MIL-101(Cr), UiO-66 e membranas de matrizes mistas para captura de CO2 | **Orientador** : Jussara Lopes de Miranda
+- **Jéssica de Souza Ribeiro**| Síntese e caracterização dos materiais híbridos metal-orgânicos MIL-101(Cr), UiO-66 e membranas de matrizes mistas para captura de CO<sub>2</sub> | **Orientador** : Jussara Lopes de Miranda
 
 - **Kelly Cristina Bastos Maia**| Desenvolvimento de sistemas associativos mistos entre micelas alongadas e polímeros graftizados como modificadores reológicos para fluidos de perfuração de base aquosa | **Orientador** : Regina Sandra Veiga Nascimento e  
 Jorge de Almeida Rodrigues Junior
@@ -147,15 +150,15 @@ Jorge de Almeida Rodrigues Junior
 
 - **Bruno Dias de Castro Ferreira dos Santos**| Avaliação da estabilidade oxidativa do biodiesel e suas misturas com diesel através da calorimetria exploratória diferencial pressurizada. | **Orientador** : Jussara Lopes de Miranda e Roberta Miranda Teixeira
 
-- **Thais Gadiole Schöntag**| Uso de supressores químicos na obtenção de dimetilcarbonato a partir de CO2 com catalisadores de estanho | **Orientador** : Jussara Lopes de Miranda
+- **Thais Gadiole Schöntag**| Uso de supressores químicos na obtenção de dimetilcarbonato a partir de CO<sub>2</sub> com catalisadores de estanho | **Orientador** : Jussara Lopes de Miranda
 
 ## 2013
 
 ### Tese de Doutorado
 
-- **Áurea Armendane Barbosa**| Estudo da conversão de CO2 catalisada por complexos de níquel, ferro e cobre mássicos, intercalados e suportados em zeólitas e alumina | **Orientador** :Jussara Lopes de Miranda e  Claudio José de Araújo Mota
+- **Áurea Armendane Barbosa**| Estudo da conversão de CO<sub>2</sub> catalisada por complexos de níquel, ferro e cobre mássicos, intercalados e suportados em zeólitas e alumina | **Orientador** :Jussara Lopes de Miranda e  Claudio José de Araújo Mota
 
-- **Heitor Breno Pereira Ferreira**| Estudo da conversão do CO2 a dimetilcarbonato utilizando catalisadores de estanho e nióbio | **Orientador** : Jussara Lopes de Miranda e  
+- **Heitor Breno Pereira Ferreira**| Estudo da conversão do CO<sub>2</sub> a dimetilcarbonato utilizando catalisadores de estanho e nióbio | **Orientador** : Jussara Lopes de Miranda e  
 Claudio José de Araújo Mota
 
 - **Renata Filgueiras Soares**| Caracterização química e geoquímica de óleos biodegradados da Colômbia por cromatografia gasosa bidimensional abrangente acoplada à espectrometria de massas por tempo de voo | **Orientador** : Débora de Almeida Azevedo
@@ -168,7 +171,7 @@ e Célia Machado Ronconi
 - **Cinthia Emmanuelle Barros Maia**| Estudo da adsorção e dessorção de misturas binárias de surfactantes (CTAB e NP10) sobre nanopartículas de sílica para aplicação em recuperação avançada de petróleo | **Orientador** : J**Regina Sandra Veiga Nascimento  
 e Aurora Pérez Gramatges**
 
-- **Cristiano Nunes da Silva**| Novos materiais (SiO2/Al2O3/TiO2 e SiO2/Al2O3/VOx) obtidos pelo processo sol-gel para adsorção de contaminantes em águas de produção da indústria de petróleo | **Orientador** : Júlio Carlos Afonso e Emerson Schwingel Ribeiro
+- **Cristiano Nunes da Silva**| Novos materiais (SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>/TiO<sub>2</sub> e SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>/VOx) obtidos pelo processo sol-gel para adsorção de contaminantes em águas de produção da indústria de petróleo | **Orientador** : Júlio Carlos Afonso e Emerson Schwingel Ribeiro
 
 - **Mariana Magalhães Marques**| O uso de extratos da casca do alho como inibidor natural da corrosão do aço-carbono 1020 em diferentes meios corrosivos | **Orientador** :Eliane D'Elia
 
@@ -202,7 +205,7 @@ e Célia Machado Ronconi
 
 - **Jônatas Carneiro da Silva**| Desenvolvimento de nanopartículas lipídicas sólidas redutoras de tensão interfacial para a recuperação melhorada de petróleo | **Orientador** : Regina Sandra Veiga Nascimento
 
-- **Laís Ferreira de Castro**| Conversão catalítica do CO2 utilizando as zeólitas beta e ZSM-5 com os metais Cr, Fe, Co, Ni e Cu | **Orientador** : Jussara Lopes de Miranda
+- **Laís Ferreira de Castro**| Conversão catalítica do CO<sub>2</sub> utilizando as zeólitas beta e ZSM-5 com os metais Cr, Fe, Co, Ni e Cu | **Orientador** : Jussara Lopes de Miranda
 
 - **Renata Jorge da Silva**| Produção de aditivos multifuncionais para biodiesel a partir de glicerina | **Orientador** :Claudio José de Araújo Mota
 
@@ -220,4 +223,59 @@ Lúcia Cruz de Sequeira Aguiar
 
 - **Pedro Henrique Araújo Duarte**| Composição molecular de gasóleos ultra-pesados por Cromatografia Gasosa Bidimensional Abrangente acoplada à Espectrometria de Massas por Tempo de Voo (CG×CG-EMTdV) | **Orientador** : Débora de Almeida Azevedo,  Ricardo Pereira e  Bárbara Marini Fernandez Ávila
 
-- **Thays de Carvalho Martins Leite**| Acetilação de cetais da glicerina para uso em misturas com combustíveis | **Orientador** : Claudio José de Araújo Mota e  Bianca Peres P
+- **Thays de Carvalho Martins Leite**| Acetilação de cetais da glicerina para uso em misturas com combustíveis | **Orientador** : Claudio José de Araújo Mota e  Bianca Peres Pinto
+
+## 2011
+
+### Tese de Doutorado
+
+- **Alyne da Silva Escobar**| Preparando o Processo FCC para o futuro: contaminação com metais e craqueamento de composto modelo | **Orientador**:Marcelo Maciel Pereira
+
+### Dissertação de Mestrado
+
+- **Flávio Augusto de Freitas**| Estudo de surfactantes obtidos a partir de borras ácidas provenientes do refino de óleos vegetais | **Orientador** :Regina Sandra Veiga Nascimento e Elizabeth Roditi Lachter
+
+- **Silvia dos Anjos Paulino**| Caracterização das concentrações de metais no material particulado grosso e fino na área do Pólo Petroquímico de Campos Elíseos no Estado do Rio de Janeiro | **Orientador** :Graciela Arbilla de Klachquin e Simone Lorena Quitério
+
+- **Thales Avelar Soares**| Aditivos antioxidantes derivados de glicerina para mistura em biodiesel | **Orientador** :Claudio José de Araújo Mota
+
+### Projeto de Curso de Graduação
+
+- **Henrique Almeida Cunha**| Obtenção e estudo de compostos nitrogenados multifuncionais a partir de glicerinaModificação química de polímeros orgânicos sintéticos para a obtenção de redutores de filtrado para fluidos de perfuração de base aquosa | **Orientador** : Regina Sandra Veiga Nascimento e Jorge de Almeida Rodrigues Junior
+
+## 2010
+
+### Tese de Doutorado
+
+ - **Jorge de Almeida Rodrigues Júnior**| Sistemas associativos e nanoestruturados na exploração e produção de petróleo | **Orientador** : Regina Sandra Veiga Nascimento
+ 
+-   **Sandra Jorge**| Análise de inclusões de fluidos de petróleo pela técnica de vaso selado em microescala com detecção por CG-EM e sua aplicação em geoquímica de reservatórios | **Orientador** : Francisco Radler de Aquino Neto e Carlos Eduardo Silva Coelho
+
+### Dissertação de Mestrado
+
+- **Aline Melissa da Silva Forrester**| Efeito das propriedades ácido-base da alumina modificada com nióbio sobre o desempenho na produção de dimetiléter a partir de metanol | **Orientador** :Arnaldo da Costa Faro Jr
+
+- **Ana Carolina Loureiro Brito Fernandes**| Estudo de fatores de virulência e de estresse oxidativo na produção de biossurfactante do tipo ramnolipídeo por Pseudomonas aeruginosa PA1 | **Orientador** :Denise Maria Guimarães Freire e Marcos Dias Pereira
+
+- **Carolina Fernandes de Miranda Pestana**| Desidratação do glicerol sobre catalisadores ácidos heterogêneos: formação de acroleína e ácido acrílico | **Orientador** :Claudio José de Araújo Mota
+
+- **Carolina Xavier de Araújo da Silva**| Estudo da influência de impurezas na glicerina frente à reação de cetalisação | **Orientador** :Claudio José de Araújo Mota
+
+- **Iria Almeida Leal Bassan**| Síntese, caracterização e avaliação de
+catalisadores de nióbio para produção de biodiesel | **Orientador** :Elizabeth Roditi Lachter e
+Arnaldo da Costa Faro Jr
+
+### Projeto de Curso de Graduação
+
+- **Cristiano Nunes da Silva**| Otimização do processamento de catalisadores gastos de unidades de Hidrotratamento/ Hidrorrefino (HDT/HDR) | **Orientador** : Julio Carlos Afonso
+
+- **Gustavo Azeredo Rocha**| Efeito da temperatura e presença de metais na estabilidade do biodiesel| **Orientador** :Regina Sandra Veiga Nascimento
+
+- **Leonardo Peçanha Ozorio**| Estudo da estabilidade de acetais produzidos a partir de glicerina | **Orientador** :Claudio José de Araújo Mota e Carolina Xavier Martins
+
+- **Lorraine Louise Greco Cavalcanti de Araujo**| Conversão de CO2 a compostos orgânicos com catalisadores de complexos oxigenados de cobre (II), rutênio (II) e níquel (II) | **Orientador** :Jussara Lopes de Miranda
+
+- **Rosana Monteiro dos Santos**| Determinação eletroenzimática de glicerol livre e total em amostras de biodiesel utilizando o eletrodo de oxigênio tipo Clark| **Orientador** :Eliane D’Elia
+  
+- **Thacyla Campos do Carmo de Oliveira**| Desenvolvimento de novos aditivos poliméricos para fluidos de perfuração através da quaternização da quitosana parcialmente hidrofobizada| **Orientador** :Regina Sandra Veiga Nascimento e
+Joaquim Fernando Mendes da Silva

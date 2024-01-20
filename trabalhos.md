@@ -29,6 +29,7 @@
 ### Tese de Doutorado
 
 - **Cristiano Nunes da Silva** | Preparação, caracterização e aplicação do óxido ternário Sílica-alumina-zircônia obtido pelo processo solgel: Um novo adsorvente para íons metálicos em águas de produção da indústria de petróleo | **Orientador** : Emerson Schwingel Ribeiro e Julio Carlos Afonso
+
 ## 2018
 
 ### Tese de Doutorado
@@ -78,6 +79,7 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 ### Dissertação de Mestrado
 
 - **Luzianne Pereira alves**| Quantificação de Al em suportes e catalisadores de hidrotratamento por RMN de sólidos | **Orientador** : Rosane Aguiar da Silva San Gil e Arnaldo da Costa Faro Junior
+
 - **Priscila Quartorone**| Desenvolvimento de materiais de combate à perda de circulação para reservatórios depletados | **Orientador** : Regina Sandra Veiga do Nascimento
 
 ### Projeto de Curso de Graduação
@@ -113,6 +115,7 @@ Bglicosidases de aspergillus awamori, aspergillus niger e prunus dulcis e avalia
 - **Danielly Chagas de Oliveira Mariano**| Avaliação calorimétrica de retardamento de reações de geração de nitrogênio e modelagem cinética de sistemas SGN emulsionados | **Orientador** : João Francisco Cajaiba da Silva
 
 - **Luciana Gondim Monteiro**| Síntese de 1-Ohexadecil-gliceroarilboranatos como potenciais aditivos anti-incrustantes para tintas marítimas | **Orientador** : Rosangela Sabbatini Capella Lopes
+- 
 - **Michaely Cristina Tenório da Costa**| Análise voltamétrica de morfolina presente em inibidores de corrosão comerciais utilizando eletrodos de diamante dopados com boro. | **Orientador** : Eliane D’Elia
 
 ### Projeto de Curso de Graduação

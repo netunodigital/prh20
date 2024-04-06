@@ -1,3 +1,13 @@
+## Projetos Cadastrados 
+
+### [Projetos Cadastrados 2024](https://netunodigital.github.io/prh20/documentos/Projetos_Cadastrados_PRH_20.1_2024_01_04_24.pdf)
+
+
+
+
+
+
+
 ## Exploração, desenvolvimento e produção de petróleo e gás
 
 - CAMILO HENRIQUE DA SILVA LIMA; PIERRE MOTHÉ ESTEVES | **Simulações computacionais de ésteres de ácidos graxos como depressores do ponto de fluidez para o transporte de petróleo bruto e de suas frações destiladas** | Graduação, Mestrado, Pós-Doutorado

@@ -1,6 +1,6 @@
 - [Anexo 1 Graduação PRH 20.1 2024](https://netunodigital.github.io/prh20/documentos/Anexo%20GRADUAÇÃO%201%20PRH20_2024.docx)
 - [Edital 5 2024 Seleção Bosistas Graduação PRH 20.1 2024](https://netunodigital.github.io/prh20/documentos/Edital%205%202024_seleção%20bolsistas%20graduação%20PRH20_2024.pdf)
-- [Anexo 1 Doutorado PRH 20.1 2024](https://netunodigital.github.io/prh20/documentos/documentos/Anexo%201%20DOUTORADO%20PRH20_2024.docx)
+- [Anexo 1 Doutorado PRH 20.1 2024](https://netunodigital.github.io/prh20/documentos/Anexo%201%20DOUTORADO%20PRH20_2024.docx)
 - [Edital 6 2024 Seleção Bosistas Doutorado PRH 20.1 2024](https://netunodigital.github.io/prh20/documentos/Edital%206%202024_seleção%20bolsistas%20doutorado%20PRH20_2024.pdf)
 - [Edital 4 2024 Seleção Bosistas Pós-doutorado PRH 20.1 2024](https://netunodigital.github.io/prh20/documentos/Edital%20PRH201%20pos-doc_29_04_2024.pdf)
 - [Anexos 2 e 3 Edital 4 2024](https://netunodigital.github.io/prh20/documentos/Edital%20PRH20.1%20pos-doc_2024_ANEXOS%202%20E%203.docx)

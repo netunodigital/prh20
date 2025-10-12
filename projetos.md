@@ -1,5 +1,8 @@
 ## Projetos Cadastrados 
 
+
+### [Projetos Cadastrados 2025](https://netunodigital.github.io/prh20/documentos/Projetos%20Cadastrados%20PRH%2020%202025%2013_08_2025%20(1)_revisado_Cris.pdf)
+
 ### [Projetos Cadastrados 2024](https://netunodigital.github.io/prh20/documentos/Projetos_Cadastrados_PRH_20.1_2024_01_04_24.pdf)
 
 
@@ -80,3 +83,4 @@
 - DENISE M G FREIRE, ELISA D C CAVALCANTI, ÉRIKA C G AGUIEIRAS, JOÃO MONNERAT | **Aproveitamento e aumento do valor agregado de resíduos e coprodutos da indústria de biocombustíveis** | Graduação, Mestrado, Doutorado, Pós-Doutorado
 
 - DENISE MARIA GUIMARÃES FREIRE; JOAO MONNERAT ARAUJO RIBEIRO DE ALMEIDA | **Uso de biossurfactantes como agentes potencializadores na recuperação microbiana aprimorada de petróleo (MEOR)** | Graduação, Mestrado, Doutorado
+
